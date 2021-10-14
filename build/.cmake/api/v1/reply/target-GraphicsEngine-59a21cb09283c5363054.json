@@ -19,7 +19,7 @@
 		],
 		"files" : 
 		[
-			"C:/vcpkg/vcpkg/scripts/buildsystems/vcpkg.cmake",
+			"C:/vcpkg/scripts/buildsystems/vcpkg.cmake",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
@@ -36,7 +36,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 544,
+				"line" : 538,
 				"parent" : 1
 			},
 			{
@@ -61,7 +61,7 @@
 				{
 					"backtrace" : 3,
 					"isSystem" : true,
-					"path" : "C:/vcpkg/vcpkg/installed/x64-mingw-static/include"
+					"path" : "C:/vcpkg/installed/x64-mingw-static/include"
 				}
 			],
 			"language" : "CXX",
@@ -83,12 +83,12 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "C:\\vcpkg\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglad.a",
+				"fragment" : "C:\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglad.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\vcpkg\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglfw3.a",
+				"fragment" : "C:\\vcpkg\\installed\\x64-mingw-static\\debug\\lib\\libglfw3.a",
 				"role" : "libraries"
 			},
 			{

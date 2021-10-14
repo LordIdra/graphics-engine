@@ -7,8 +7,8 @@ set(src_files
         src/window/Window.cpp
 )
 
-set(CMAKE_TOOLCHAIN_FILE "C:\\vcpkg\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake")
-include("C:\\vcpkg\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake")
+set(CMAKE_TOOLCHAIN_FILE "C:\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake")
+include("C:\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake")
 set(VCPKG_TARGET_TRIPLET "x64-mingw-static")
 
 find_package(glad CONFIG REQUIRED)

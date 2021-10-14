@@ -1,1 +1,1 @@
- C:/vcpkg/vcpkg/installed/x64-mingw-static/debug/lib/libglad.a C:/vcpkg/vcpkg/installed/x64-mingw-static/debug/lib/libglfw3.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+ C:/vcpkg/installed/x64-mingw-static/debug/lib/libglad.a C:/vcpkg/installed/x64-mingw-static/debug/lib/libglfw3.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

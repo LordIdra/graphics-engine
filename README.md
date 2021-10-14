@@ -1,2 +1,2 @@
 # graphicsengine
- 3D graphics library using OpenGL for my A-level project
+OpenGL 3D graphics engine for use in my A-level project
