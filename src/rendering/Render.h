@@ -32,5 +32,5 @@ private:
 public:
     static void Init();
     static void Update();
-    static void RenderObject(float vertices[], unsigned int indices[]);
+    static void RenderObject(float vertices[], int vertex_count, int vertex_size);
 };

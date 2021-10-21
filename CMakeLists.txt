@@ -3,8 +3,17 @@ project(GraphicsEngine)
 
 set(src_files
         src/main.cpp
+        src/geometry/Geometry.h
         src/window/Window.h
         src/window/Window.cpp
+        src/rendering/Camera.h
+        src/rendering/Camera.cpp
+        src/rendering/Lighting.h
+        src/rendering/Lighting.cpp
+        src/rendering/Render.h
+        src/rendering/Render.cpp
+        src/rendering/Shader.h
+        src/rendering/Shader.cpp
 )
 
 set(CMAKE_TOOLCHAIN_FILE "C:\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake")

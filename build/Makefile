@@ -152,6 +152,102 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/rendering/Camera.obj: src/rendering/Camera.cpp.obj
+.PHONY : src/rendering/Camera.obj
+
+# target to build an object file
+src/rendering/Camera.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj
+.PHONY : src/rendering/Camera.cpp.obj
+
+src/rendering/Camera.i: src/rendering/Camera.cpp.i
+.PHONY : src/rendering/Camera.i
+
+# target to preprocess a source file
+src/rendering/Camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.i
+.PHONY : src/rendering/Camera.cpp.i
+
+src/rendering/Camera.s: src/rendering/Camera.cpp.s
+.PHONY : src/rendering/Camera.s
+
+# target to generate assembly for a file
+src/rendering/Camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.s
+.PHONY : src/rendering/Camera.cpp.s
+
+src/rendering/Lighting.obj: src/rendering/Lighting.cpp.obj
+.PHONY : src/rendering/Lighting.obj
+
+# target to build an object file
+src/rendering/Lighting.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj
+.PHONY : src/rendering/Lighting.cpp.obj
+
+src/rendering/Lighting.i: src/rendering/Lighting.cpp.i
+.PHONY : src/rendering/Lighting.i
+
+# target to preprocess a source file
+src/rendering/Lighting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.i
+.PHONY : src/rendering/Lighting.cpp.i
+
+src/rendering/Lighting.s: src/rendering/Lighting.cpp.s
+.PHONY : src/rendering/Lighting.s
+
+# target to generate assembly for a file
+src/rendering/Lighting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.s
+.PHONY : src/rendering/Lighting.cpp.s
+
+src/rendering/Render.obj: src/rendering/Render.cpp.obj
+.PHONY : src/rendering/Render.obj
+
+# target to build an object file
+src/rendering/Render.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj
+.PHONY : src/rendering/Render.cpp.obj
+
+src/rendering/Render.i: src/rendering/Render.cpp.i
+.PHONY : src/rendering/Render.i
+
+# target to preprocess a source file
+src/rendering/Render.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.i
+.PHONY : src/rendering/Render.cpp.i
+
+src/rendering/Render.s: src/rendering/Render.cpp.s
+.PHONY : src/rendering/Render.s
+
+# target to generate assembly for a file
+src/rendering/Render.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.s
+.PHONY : src/rendering/Render.cpp.s
+
+src/rendering/Shader.obj: src/rendering/Shader.cpp.obj
+.PHONY : src/rendering/Shader.obj
+
+# target to build an object file
+src/rendering/Shader.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj
+.PHONY : src/rendering/Shader.cpp.obj
+
+src/rendering/Shader.i: src/rendering/Shader.cpp.i
+.PHONY : src/rendering/Shader.i
+
+# target to preprocess a source file
+src/rendering/Shader.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.i
+.PHONY : src/rendering/Shader.cpp.i
+
+src/rendering/Shader.s: src/rendering/Shader.cpp.s
+.PHONY : src/rendering/Shader.s
+
+# target to generate assembly for a file
+src/rendering/Shader.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\GraphicsEngine.dir\build.make CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.s
+.PHONY : src/rendering/Shader.cpp.s
+
 src/window/Window.obj: src/window/Window.cpp.obj
 .PHONY : src/window/Window.obj
 
@@ -188,6 +284,18 @@ help:
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/rendering/Camera.obj
+	@echo ... src/rendering/Camera.i
+	@echo ... src/rendering/Camera.s
+	@echo ... src/rendering/Lighting.obj
+	@echo ... src/rendering/Lighting.i
+	@echo ... src/rendering/Lighting.s
+	@echo ... src/rendering/Render.obj
+	@echo ... src/rendering/Render.i
+	@echo ... src/rendering/Render.s
+	@echo ... src/rendering/Shader.obj
+	@echo ... src/rendering/Shader.i
+	@echo ... src/rendering/Shader.s
 	@echo ... src/window/Window.obj
 	@echo ... src/window/Window.i
 	@echo ... src/window/Window.s

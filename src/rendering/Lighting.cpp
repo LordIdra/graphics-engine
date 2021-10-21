@@ -16,7 +16,6 @@ int Lighting::directional_light_ID = 0;
 
 void Lighting::Init() {
     ObjectShader = Shader("../shaders/Object.vsh", "../shaders/Object.fsh");
-    ShadowShader = Shader("../shaders/Shadow.vsh", "../shaders/Shadow.fsh");
 }
 
 

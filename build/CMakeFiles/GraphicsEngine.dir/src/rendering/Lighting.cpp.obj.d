@@ -1,51 +1,20 @@
-CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
- C:\Project\graphicsengine\src\main.cpp \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/iostream \
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj: \
+ C:\Project\graphicsengine\src\rendering\Lighting.cpp \
+ C:\Project\graphicsengine\src\rendering\Lighting.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/vector \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++config.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/os_defines.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/cpu_defines.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ostream \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ios \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/iosfwd \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stringfwd.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/memoryfwd.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/postypes.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cwchar \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/wchar.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/crtdefs.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/vadefs.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_print_push.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_off_t.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_stat64.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/swprintf.inl \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sec_api/wchar_s.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_print_pop.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/exception \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/exception.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/exception_ptr.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/exception_defines.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/cxxabi_init_exception.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/stddef.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stddef.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/typeinfo \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/hash_bytes.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/new \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/nested_exception.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/move.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/concept_check.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/type_traits \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/char_traits.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/functexcept.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/exception_defines.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/cpp_type_traits.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/type_traits.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/move.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/concept_check.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/type_traits \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/debug/assertions.h \
@@ -53,6 +22,60 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ptr_traits.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/debug/debug.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/predefined_ops.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/allocator.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++allocator.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/new_allocator.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/new \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/exception \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/exception.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/exception_ptr.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/cxxabi_init_exception.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/stddef.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stddef.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/vadefs.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/typeinfo \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/hash_bytes.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/nested_exception.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/memoryfwd.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/alloc_traits.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/alloc_traits.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/initializer_list \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/range_access.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/map \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_tree.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_function.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward/binders.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/aligned_buffer.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_map.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/tuple \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/utility \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/array \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/stdexcept \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/string \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stringfwd.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/char_traits.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/postypes.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cwchar \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/wchar.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_print_push.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_off_t.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_stat64.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/swprintf.inl \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sec_api/wchar_s.h \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_print_pop.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstdint \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/stdint.h \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stdint.h \
@@ -62,9 +85,12 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/locale.h \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stdio.h \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/iosfwd \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cctype \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/ctype.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ios_base.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream_insert.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/cxxabi_forced.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_string.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/atomicity.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/gthr.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/gthr-default.h \
@@ -83,20 +109,6 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/pthread_compat.h \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/pthread_unistd.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/atomic_word.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_classes.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/string \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/allocator.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++allocator.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/new_allocator.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream_insert.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/cxxabi_forced.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_function.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward/binders.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/range_access.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/initializer_list \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_string.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/alloc_traits.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/alloc_traits.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstdlib \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stdlib.h \
@@ -106,42 +118,14 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstdio \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cerrno \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/functional_hash.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_string.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_classes.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/system_error \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/error_constants.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/stdexcept \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/streambuf \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/streambuf.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_ios.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_facets.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cwctype \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/wctype.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/ctype_base.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/streambuf_iterator.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/ctype_inline.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_facets.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_ios.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/istream \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- C:\Project\graphicsengine\src\window/Window.h \
- C:/vcpkg/installed/x64-mingw-static/include/glad/glad.h \
- C:/vcpkg/installed/x64-mingw-static/include/KHR/khrplatform.h \
- C:/vcpkg/installed/x64-mingw-static/include/GLFW/glfw3.h \
- C:\Project\graphicsengine\src\rendering/Render.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/vector \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/math.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cmath \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/math.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/uses_allocator.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/invoke.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_multimap.h \
  C:/vcpkg/installed/x64-mingw-static/include/glm/glm.hpp \
  C:/vcpkg/installed/x64-mingw-static/include/glm/detail/_fixes.hpp \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cmath \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/math.h \
  C:/vcpkg/installed/x64-mingw-static/include/glm/detail/setup.hpp \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cassert \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/assert.h \
@@ -283,6 +267,39 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/vcpkg/installed/x64-mingw-static/include/glm/detail/type_half.inl \
  C:/vcpkg/installed/x64-mingw-static/include/glm/integer.hpp \
  C:/vcpkg/installed/x64-mingw-static/include/glm/detail/func_integer.inl \
+ C:\Project\graphicsengine\src\rendering\Shader.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/iostream \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ostream \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ios \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ios_base.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_classes.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_classes.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/system_error \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/error_constants.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/streambuf \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/streambuf.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_ios.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_facets.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cwctype \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/wctype.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/ctype_base.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/streambuf_iterator.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/ctype_inline.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/locale_facets.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/basic_ios.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/istream \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/fstream \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/basic_file.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++io.h \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/sstream \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/sstream.tcc \
+ C:/vcpkg/installed/x64-mingw-static/include/glad/glad.h \
+ C:/vcpkg/installed/x64-mingw-static/include/KHR/khrplatform.h \
+ C:\Project\graphicsengine\src\rendering\Camera.h \
  C:/vcpkg/installed/x64-mingw-static/include/glm/gtc/matrix_transform.hpp \
  C:/vcpkg/installed/x64-mingw-static/include/glm/ext/matrix_projection.hpp \
  C:/vcpkg/installed/x64-mingw-static/include/glm/gtc/constants.hpp \
@@ -339,31 +356,4 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstdarg \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/stdarg.h \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stdarg.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h \
- C:/vcpkg/installed/x64-mingw-static/include/glm/gtc/type_ptr.hpp \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstring \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/string.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sec_api/string_s.h \
- C:/vcpkg/installed/x64-mingw-static/include/glm/gtc/type_ptr.inl \
- C:\Project\graphicsengine\src\rendering/Lighting.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/map \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_tree.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/aligned_buffer.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_map.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/tuple \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/utility \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/array \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/uses_allocator.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/invoke.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_multimap.h \
- C:\Project\graphicsengine\src\rendering/Shader.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/fstream \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/basic_file.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++io.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/sstream \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/sstream.tcc \
- C:\Project\graphicsengine\src\rendering/Camera.h \
- C:\Project\graphicsengine\src\geometry/Geometry.h
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h

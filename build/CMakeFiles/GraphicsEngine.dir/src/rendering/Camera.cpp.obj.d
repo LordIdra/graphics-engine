@@ -1,5 +1,6 @@
-CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
- C:\Project\graphicsengine\src\main.cpp \
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj: \
+ C:\Project\graphicsengine\src\rendering\Camera.cpp \
+ C:\Project\graphicsengine\src\rendering\Camera.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/iostream \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++config.h \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/os_defines.h \
@@ -126,22 +127,10 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/istream \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- C:\Project\graphicsengine\src\window/Window.h \
- C:/vcpkg/installed/x64-mingw-static/include/glad/glad.h \
- C:/vcpkg/installed/x64-mingw-static/include/KHR/khrplatform.h \
- C:/vcpkg/installed/x64-mingw-static/include/GLFW/glfw3.h \
- C:\Project\graphicsengine\src\rendering/Render.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/vector \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/math.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cmath \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/math.h \
  C:/vcpkg/installed/x64-mingw-static/include/glm/glm.hpp \
  C:/vcpkg/installed/x64-mingw-static/include/glm/detail/_fixes.hpp \
+ C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cmath \
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/math.h \
  C:/vcpkg/installed/x64-mingw-static/include/glm/detail/setup.hpp \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cassert \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/assert.h \
@@ -339,31 +328,4 @@ CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj: \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstdarg \
  C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/stdarg.h \
  C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/stdarg.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h \
- C:/vcpkg/installed/x64-mingw-static/include/glm/gtc/type_ptr.hpp \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/cstring \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/string.h \
- C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/sec_api/string_s.h \
- C:/vcpkg/installed/x64-mingw-static/include/glm/gtc/type_ptr.inl \
- C:\Project\graphicsengine\src\rendering/Lighting.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/map \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_tree.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/ext/aligned_buffer.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_map.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/tuple \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/utility \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/array \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/uses_allocator.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/invoke.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/stl_multimap.h \
- C:\Project\graphicsengine\src\rendering/Shader.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/fstream \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/codecvt.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/basic_file.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32/bits/c++io.h \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/fstream.tcc \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/sstream \
- C:/MinGW/MinGW/mingw32/lib/gcc/i686-w64-mingw32/8.1.0/include/c++/bits/sstream.tcc \
- C:\Project\graphicsengine\src\rendering/Camera.h \
- C:\Project\graphicsengine\src\geometry/Geometry.h
+ C:/MinGW/MinGW/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h

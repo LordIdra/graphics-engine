@@ -98,23 +98,91 @@ CMakeFiles/GraphicsEngine.dir/src/window/Window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GraphicsEngine.dir/src/window/Window.cpp.s"
 	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Project\graphicsengine\src\window\Window.cpp -o CMakeFiles\GraphicsEngine.dir\src\window\Window.cpp.s
 
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj: CMakeFiles/GraphicsEngine.dir/flags.make
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj: CMakeFiles/GraphicsEngine.dir/includes_CXX.rsp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj: ../src/rendering/Camera.cpp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj: CMakeFiles/GraphicsEngine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Project\graphicsengine\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj -MF CMakeFiles\GraphicsEngine.dir\src\rendering\Camera.cpp.obj.d -o CMakeFiles\GraphicsEngine.dir\src\rendering\Camera.cpp.obj -c C:\Project\graphicsengine\src\rendering\Camera.cpp
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.i"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Project\graphicsengine\src\rendering\Camera.cpp > CMakeFiles\GraphicsEngine.dir\src\rendering\Camera.cpp.i
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.s"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Project\graphicsengine\src\rendering\Camera.cpp -o CMakeFiles\GraphicsEngine.dir\src\rendering\Camera.cpp.s
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj: CMakeFiles/GraphicsEngine.dir/flags.make
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj: CMakeFiles/GraphicsEngine.dir/includes_CXX.rsp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj: ../src/rendering/Lighting.cpp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj: CMakeFiles/GraphicsEngine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Project\graphicsengine\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj -MF CMakeFiles\GraphicsEngine.dir\src\rendering\Lighting.cpp.obj.d -o CMakeFiles\GraphicsEngine.dir\src\rendering\Lighting.cpp.obj -c C:\Project\graphicsengine\src\rendering\Lighting.cpp
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.i"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Project\graphicsengine\src\rendering\Lighting.cpp > CMakeFiles\GraphicsEngine.dir\src\rendering\Lighting.cpp.i
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.s"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Project\graphicsengine\src\rendering\Lighting.cpp -o CMakeFiles\GraphicsEngine.dir\src\rendering\Lighting.cpp.s
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj: CMakeFiles/GraphicsEngine.dir/flags.make
+CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj: CMakeFiles/GraphicsEngine.dir/includes_CXX.rsp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj: ../src/rendering/Render.cpp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj: CMakeFiles/GraphicsEngine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Project\graphicsengine\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj -MF CMakeFiles\GraphicsEngine.dir\src\rendering\Render.cpp.obj.d -o CMakeFiles\GraphicsEngine.dir\src\rendering\Render.cpp.obj -c C:\Project\graphicsengine\src\rendering\Render.cpp
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.i"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Project\graphicsengine\src\rendering\Render.cpp > CMakeFiles\GraphicsEngine.dir\src\rendering\Render.cpp.i
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.s"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Project\graphicsengine\src\rendering\Render.cpp -o CMakeFiles\GraphicsEngine.dir\src\rendering\Render.cpp.s
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj: CMakeFiles/GraphicsEngine.dir/flags.make
+CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj: CMakeFiles/GraphicsEngine.dir/includes_CXX.rsp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj: ../src/rendering/Shader.cpp
+CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj: CMakeFiles/GraphicsEngine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Project\graphicsengine\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj -MF CMakeFiles\GraphicsEngine.dir\src\rendering\Shader.cpp.obj.d -o CMakeFiles\GraphicsEngine.dir\src\rendering\Shader.cpp.obj -c C:\Project\graphicsengine\src\rendering\Shader.cpp
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.i"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Project\graphicsengine\src\rendering\Shader.cpp > CMakeFiles\GraphicsEngine.dir\src\rendering\Shader.cpp.i
+
+CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.s"
+	C:\MinGW\MinGW\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Project\graphicsengine\src\rendering\Shader.cpp -o CMakeFiles\GraphicsEngine.dir\src\rendering\Shader.cpp.s
+
 # Object files for target GraphicsEngine
 GraphicsEngine_OBJECTS = \
 "CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj" \
-"CMakeFiles/GraphicsEngine.dir/src/window/Window.cpp.obj"
+"CMakeFiles/GraphicsEngine.dir/src/window/Window.cpp.obj" \
+"CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj" \
+"CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj" \
+"CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj" \
+"CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj"
 
 # External object files for target GraphicsEngine
 GraphicsEngine_EXTERNAL_OBJECTS =
 
 GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/src/main.cpp.obj
 GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/src/window/Window.cpp.obj
+GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/src/rendering/Camera.cpp.obj
+GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/src/rendering/Lighting.cpp.obj
+GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/src/rendering/Render.cpp.obj
+GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/src/rendering/Shader.cpp.obj
 GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/build.make
 GraphicsEngine.exe: C:/vcpkg/installed/x64-mingw-static/debug/lib/libglad.a
 GraphicsEngine.exe: C:/vcpkg/installed/x64-mingw-static/debug/lib/libglfw3.a
 GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/linklibs.rsp
 GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/objects1.rsp
 GraphicsEngine.exe: CMakeFiles/GraphicsEngine.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Project\graphicsengine\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable GraphicsEngine.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Project\graphicsengine\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable GraphicsEngine.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\GraphicsEngine.dir\link.txt --verbose=$(VERBOSE)
 	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noprofile -executionpolicy Bypass -file C:/vcpkg/scripts/buildsystems/msbuild/applocal.ps1 -targetBinary C:/Project/graphicsengine/build/GraphicsEngine.exe -installedDir C:/vcpkg/installed/x64-mingw-static/bin -OutVariable out
 
